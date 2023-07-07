@@ -1,0 +1,43 @@
+Nota: Las filas de A se van multiplicando por las columans de B, elemento a elemento, respectivamente.
+
+
+Matriz A:
+
+1	2	3
+
+4	3	2
+
+1	2	4
+
+Matriz B:
+
+3	1	2
+
+2	4	3
+
+1	3	2
+
+
+Resultado de A*B:
+
+1*3+2*2+3*1     1*1+2*4+3*3     1*2+2*3+3*2
+
+
+4*3+3*2+2*1     4*1+3*4+2*3     4*2+3*3+2*2
+
+
+1*3+2*2+3*1     1*1+2*4+3*3     1*2+2*3+3*2
+
+
+---------------------------------------------
+
+    10              18              14 
+
+    20              22              21
+
+    10              18              14
+
+  
+
+
+ 
