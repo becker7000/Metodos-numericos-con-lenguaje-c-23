@@ -1,0 +1,35 @@
+Nuestro programa será capaz de resolver sistemas de ecuaciones lineales de NxN.
+
+Supongamos un ejemplo con un sistema de 3x3, es decir N = 3
+
+	2x + y -  z  =   8
+       -3x - y + 2z  = -11
+       -2x + y + 2z  =  -3
+
+Nota: podemos agregar un filtro al programa para que sea capaz de decirnos 
+      si el sistema de ecuaciones tiene solución o no, para ese filtro podemos 
+      usar el programa que hicimos previamente (determinante.c) pasandole los 
+      coeficientes del sistema de ecuaciones y si la determinante=0, entonces
+      no tiene solución pero si la determinante != 0, entonces sí tiene solución 
+      y seguimos el algoritmo a continuación...
+
+
+Matriz aumentada del sistema de ecuaciones:
+
+       2   1   -1     8
+      -3  -1    2   -11
+      -2   1    2    -3
+
+
+
+
+
+
+
+
+
+
+
+
+
+

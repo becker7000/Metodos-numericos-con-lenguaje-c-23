@@ -1,0 +1,23 @@
+Nota: el arreglo debe estar ordenado para poder calcular la mediana.
+
+Caso 1: N(tamaño) es impar
+array[] = {2, 3, 6, 7, 9}
+N=5
+mediana = array[N/2]
+
+Caso 2: N(tamaño) es par
+array[] = {2, 3, 6, 7, 9, 11}
+N=6
+mediana = array[N/2-1]+array[N/2]
+mediana = array[2]+array[3] = 6 + 7
+mediana = mediana/2 = 13/2
+mediana = 6.5
+
+
+
+
+
+
+
+
+
